@@ -1,4 +1,4 @@
-name: GitHub Actions Demo
+name: maven-build
 run-name: Testing out GitHub Actions
 on: [push]
 jobs:
